@@ -18,7 +18,7 @@ function reset_to_initial_values()
     score = 0
 
     frames_until_timer_tick = 30
-    timer = 45
+    timer = 9999
 
     frames_to_flash_green_for = 10
     flash_green_for_this_many_frames = 0
